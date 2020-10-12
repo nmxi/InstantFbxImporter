@@ -1,0 +1,2 @@
+# InstantFbxImporter
+FBXファイルをanimに変換するUnityEditor拡張
