@@ -1,7 +1,7 @@
 # InstantFbxImporter
-FBXファイルをanimに変換するUnityEditor拡張
+FBXファイルからanimを簡単に取り出すUnityEditor拡張
 
-FBXファイルをUnityにインポート後，Humanoid設定などを複数のFBXファイルを一括して行うことができる．
+FBXファイルをUnityにインポート後，複数のFBXファイルのHumanoid設定などを一括して行うことができる．
 
 ![https://i.imgur.com/4VaAYPg.png](https://i.imgur.com/4VaAYPg.png)
 
