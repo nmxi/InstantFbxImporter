@@ -9,7 +9,7 @@ FBXファイルをUnityにインポート後，複数のFBXファイルのHumano
 2019.1.12f1 ~
 
 ## How to use
-1. UnityPackageをインポートする
+1. UnityPackageをインポートする ([Releases](https://github.com/nmxi/InstantFbxImporter/releases))
 
 2. MovieCreateCompanion/InstantFbxImporterからInstantFbxImporterのタブを開く
 
