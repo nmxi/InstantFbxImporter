@@ -20,3 +20,6 @@ FBXファイルをUnityにインポート後，Humanoid設定などを複数のF
 5. animファイルが作成されるので，AnimationControllerなどにアタッチして使える．
 
 6. Enjoy!
+
+## LICENSE
+MIT
